@@ -28,7 +28,7 @@ The following table outlines the current status of directories found in the orig
 | `scenes`      | Untouched     | Likely contains scene-related assets or scripts in proprietary `.lg` format |
 | `screenshots` | Untouched     | Contains screenshots of the game |
 | `sounds`      | Public Format | Contains `.wav` audio files – no further action needed |
-| `texts`       | Untouched     | Contains information about strings in `.cms` and `.str` formats |
+| `texts`       | WIP           | Contains information about strings in `.cms` and `.str` formats |
 | `textures`    | Untouched     | Contains textures in proprietary `.pct` format |
 
 ## Contributing
