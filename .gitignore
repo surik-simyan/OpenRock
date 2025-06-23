@@ -1,0 +1,37 @@
+# CLion-specific build directories
+cmake-build-*/
+# Project-specific binaries
+build/
+Debug/
+Release/
+
+# IDE-specific files
+.idea/
+*.swp
+*.swo
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+
+# Output of configuration scripts
+config.log
+config.status
+
+# VSCode support (if used alongside)
+.vscode/
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.out
+*.exe
+
+# Dependency management
+*~
+*.log
+*.DS_Store
