@@ -35,3 +35,7 @@ config.status
 *~
 *.log
 *.DS_Store
+
+# Utils
+utils/*
+!utils/*.cpp
